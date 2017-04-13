@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1478954747 source:f:\iit\just_c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1485950767 source:c:\users\desktop\documents\just_c\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<ctype.h>
+	<time.h>
+	<windows.h>
+	<process.h>
+
